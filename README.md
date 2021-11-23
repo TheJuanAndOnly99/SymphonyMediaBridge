@@ -92,6 +92,11 @@ The Symphony Media Bridge is a cmake based project that can be built and run for
 
 ## Contributing
 
+For any questions, bug, or ehancements please use [GitHub Issues](https://github.com/finos/SymphonyMediaBridge/issues).
+
+You can also email us on [symphony@finos.org](mailto:symphony@finos.org).
+
+To submit a pull request please follow these steps:
 1. Fork it (<https://github.com/finos/SymphonyMediaBridge/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Read our [contribution guidelines](.github/CONTRIBUTING.md) and [Community Code of Conduct](https://www.finos.org/code-of-conduct)
